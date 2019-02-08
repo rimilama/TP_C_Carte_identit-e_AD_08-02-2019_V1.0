@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1549642963 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1549642957 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\ecrire.c
+	<stdio.h>
+	<stdlib.h>
+	"ecrire.h"
+
+1549642912 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\ecrire.h
+	"main.h"
+
+1549642999 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\main.h
+
+1549642771 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\lire.h
+	"main.h"
+
+1549642818 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\carte_identite\lire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lire.h"
+
+1549654677 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\ecrire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ecrire.h"
+
+1549642912 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\lire.h
+	"main.h"
+
+1549652421 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\main.h
+
+1549654900 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1549642771 c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\ecrire.h
+	"main.h"
+
+1549654670 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet cours\2. programme noté\6. carte d'identité\2. avec allocations dynamiques\lire.c
+	<stdio.h>
+	<stdlib.h>
+	"lire.h"
+

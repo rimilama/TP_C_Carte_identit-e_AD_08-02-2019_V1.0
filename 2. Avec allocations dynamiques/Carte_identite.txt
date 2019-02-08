@@ -1,0 +1,36 @@
+~
+ID - 27078
+Nom - Daeffler
+Prenom - Angela
+Adresse - 44 rue principal
+Code postal - 67270
+Ville - LIXHAUSEN
+~
+
+~
+ID - 21738
+Nom - Daeffler
+Prenom - Francis
+Adresse - 2B rue des champs
+Code postal - 67370
+Ville - PFULGRIESHEIM
+~
+
+~
+ID - 27614
+Nom - wow
+Prenom - wiw
+Adresse - wiow
+Code postal - 5864125
+Ville - EQHDQDc
+~
+
+~
+ID - 15004
+Nom - aedsq
+Prenom - qdsc
+Adresse - qefdsqfqdqf qfd
+Code postal - 645465
+Ville - ezdfwf6
+~
+
